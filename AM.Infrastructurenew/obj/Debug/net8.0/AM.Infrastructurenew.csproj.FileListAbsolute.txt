@@ -1,0 +1,17 @@
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\bin\Debug\net8.0\AM.Infrastructurenew.deps.json
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\bin\Debug\net8.0\AM.Infrastructurenew.runtimeconfig.json
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\bin\Debug\net8.0\AM.Infrastructurenew.dll
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\bin\Debug\net8.0\AM.Infrastructurenew.pdb
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.csproj.AssemblyReference.cache
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.AssemblyInfoInputs.cache
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.AssemblyInfo.cs
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.csproj.CoreCompileInputs.cache
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infra.62EA57BE.Up2Date
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.dll
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\refint\AM.Infrastructurenew.dll
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.pdb
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\AM.Infrastructurenew.genruntimeconfig.cache
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.Infrastructurenew\obj\Debug\net8.0\ref\AM.Infrastructurenew.dll

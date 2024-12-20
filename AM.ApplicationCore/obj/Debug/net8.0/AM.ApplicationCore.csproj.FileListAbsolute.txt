@@ -1,0 +1,12 @@
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Aziz Chahlaoui\source\repos\AM.ApplicationCore\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
